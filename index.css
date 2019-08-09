@@ -51,7 +51,7 @@ margin-left: 15px;
 .blue-box, .teal-box, .green-box, .yellow-box {
 height: 150px;
 width: 100%;
-background-color: blue;
+background-color:#4b90e2;
 display: block;
 margin-left: 15px;
 }
@@ -59,20 +59,20 @@ margin-left: 15px;
 /* teal box */
 
 .teal-box {
-background-color: teal;
+background-color: #4fe2c1;
 
 }
 
 /* green box */
 
 .green-box {
-background-color: green;
+background-color: #b8e986;
 }
 
 /* yellow box */
 
 .yellow-box {
-background-color: yellow;
+background-color: #f8e71b;
 
 
 }
